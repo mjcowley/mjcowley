@@ -11,15 +11,15 @@
 
 I'm an astrophysicist and Senior Lecturer at the Queensland University of Technology (QUT), where I lead the [QUT Astrophysics Research Group](https://research.qut.edu.au/qutastrophysics/) and serve as Academic Lead of Learning and Teaching for the School of Chemistry and Physics. I'm also the Queensland Chair of the Australian Institute of Physics ([AIP](https://www.aip.org.au/QLD-BRANCH)).
 
-My research sits at the intersection of observational astronomy, multi-wavelength survey science, and computational astrophysics, with a focus on understanding how galaxies and supermassive black holes have co-evolved across cosmic time.
+My research blends observational astronomy, multi-wavelength survey science, and computational astrophysics, with a focus on understanding how galaxies and supermassive black holes have co-evolved across cosmic time.
 
-Before moving into academia, I spent over a decade in the finance industry, an experience that continues to shape how I approach science communication, strategic thinking, and interdisciplinary collaboration.
+Before moving into academia, I spent over a decade in the finance industry.
 
 ---
 
 ## 🏫 Teaching
 
-I teach across the physics and science curriculum at QUT, with a particular focus on astrophysics, research skills, and data science. Current units include stellar astrophysics, cosmology, atomic and particle physics, data analysis and visualisation, and science capstone and research programs at both undergraduate and honours level.
+I teach across the physics and science curriculum at QUT, with a particular focus on astrophysics, research skills, and data science. Current units include stellar astrophysics, cosmology, nuclear and particle physics, data analysis and visualisation, and science capstone and research programs at both undergraduate and honours level.
 
 Prior to QUT I have taught across astronomy, optics, and planetary science at the University of Southern Queensland and Macquarie University.
 
@@ -33,13 +33,7 @@ My research investigates how galaxies form, grow, and eventually cease star form
 
 ## 🎓 Student Research
 
-I supervise undergraduate and postgraduate students across a broad range of observational and computational astrophysics projects. Current and recent work spans three broad themes:
-
-**Galaxy Evolution & Quenching:** Exploring how and why galaxies stop forming stars, including studies of AGN impact on galaxy colour space, quenching drivers and timescales using ASKAP EMU, and the role of environment in high-redshift galaxy populations.
-
-**AGN Physics & SED Analysis:** Characterising AGN across the electromagnetic spectrum, from disentangling AGN and star-forming emission through SED decomposition, to infrared luminosity function modelling and multi-wavelength AGN selection.
-
-**Photometric Redshifts & Survey Techniques:** Developing and testing methods for estimating galaxy distances at scale, including AGN template fitting, machine learning approaches, the Lyman Break technique, and assessing the impact of photometric coverage on redshift accuracy.
+I supervise undergraduate and postgraduate students across a broad range of observational and computational astrophysics projects. 
 
 > **Interested in research?** Browse [available topics at QUT](https://www.qut.edu.au/research/study-with-us/student-topics) or [get in touch](mailto:michael.cowley@qut.edu.au) to discuss your own ideas.
 
