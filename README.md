@@ -17,29 +17,29 @@ Before moving into academia, I spent over a decade in the finance industry.
 
 ---
 
-## 🏫 Teaching
+## Teaching
 
-I teach across the physics and science curriculum at QUT, with a particular focus on astrophysics, research skills, and data science. Current units include stellar astrophysics, cosmology, nuclear and particle physics, data analysis and visualisation, and science capstone and research programs at both undergraduate and honours level.
+I teach across the physics and science curriculum at QUT, with a focus on astrophysics, research skills, and data science. I currently coordinate stellar astrophysics, cosmology, nuclear and particle physics, data analysis and visualisation, experimental physics, and theoretical physics across undergraduate and honours level.
 
-Prior to QUT I have taught across astronomy, optics, and planetary science at the University of Southern Queensland and Macquarie University.
+Prior to QUT, I taught astronomy, optics, and planetary science at the University of Southern Queensland and Macquarie University.
 
 ---
 
-## 🔭 Research
+## Research
 
 My research investigates how galaxies form, grow, and eventually cease star formation, and the role that supermassive black holes (active galactic nuclei, or AGN) play in driving these processes. I draw on data spanning the full electromagnetic spectrum, combining radio, infrared, optical, and X-ray observations from major survey programs including [ASKAP EMU](http://emu-survey.org/index.html), [ZFOURGE](https://zfourge.tamu.edu/), and [ZFIRE](https://sites.google.com/view/zfire/home/). Through these surveys I have produced multi-wavelength AGN catalogues, contributed to large-scale radio source mapping across the southern sky, and found evidence that AGN evolve through infrared, X-ray, and radio populations alongside their host galaxies. This body of work has challenged the view that AGN feedback is a primary driver of galaxy quenching.
 
 ---
 
-## 🎓 Student Research
+## Student Research
 
-I supervise undergraduate and postgraduate students across a broad range of observational and computational astrophysics projects. 
+I supervise undergraduate and postgraduate students across a broad range of observational and computational astrophysics projects.
 
 > **Interested in research?** Browse [available topics at QUT](https://www.qut.edu.au/research/study-with-us/student-topics) or [get in touch](mailto:michael.cowley@qut.edu.au) to discuss your own ideas.
 
 ---
 
-## 📡 Science Communication
+## Science Communication
 
 I am committed to making astrophysics accessible beyond the university. My public engagement includes:
 
@@ -48,11 +48,3 @@ I am committed to making astrophysics accessible beyond the university. My publi
 - [TEDx talk](https://www.ted.com/talks/michael_cowley_funding_astronomy_is_critical_to_our_future) on black holes and galaxy evolution
 - Public lectures and professional development seminars for teachers
 - Outreach programs for young women and Indigenous Australian students through [QUT's Start QUT program](https://www.qut.edu.au/study/options/start-qut)
-
----
-
-## 📍 Location
-
-Brisbane, Queensland, Australia
-
-
